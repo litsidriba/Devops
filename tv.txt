@@ -1,4 +1,8 @@
 #
  sudo apt-get update && apt upgrade -y
  sudo apt update && apt upgrade -y
- apt update && apt upgrade -y
+ apt update && apt upgrade -y 
+#
+some set-backe trying docker
+but soon 
+i hope so
